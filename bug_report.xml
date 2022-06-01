@@ -5,8 +5,8 @@
 <Bug_ID>b14</Bug_ID>
 <Area_Path>USERS menu -> New Users</Area_Path>
 <Build_Number>Version Number 5.0.1</Build_Number>
-<Severity>HIGH (High/Medium/Low) or 1</Severity>
-<Priority>HIGH (High/Medium/Low) or 1</Priority>
+<Severity>HIGH</Severity>
+<Priority>HIGH</Priority>
 <Assigned_to>Vasya</Assigned_to>
 <Reported_By>Ichpo</Reported_By>
 <Reported_On>20.05.2022</Reported_On>
